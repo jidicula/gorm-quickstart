@@ -1,3 +1,3 @@
-module github.com/jidicula/template-go
+module github.com/jidicula/gorm-quickstart
 
 go 1.16
